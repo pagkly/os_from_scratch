@@ -13,8 +13,8 @@ or other application using the libvirt API.
       <libosinfo:os id="http://microsoft.com/win/10"/>
     </libosinfo:libosinfo>
   </metadata>
-  <memory unit='KiB'>8388608</memory>
-  <currentMemory unit='KiB'>8388608</currentMemory>
+  <memory unit='KiB'>16384000</memory>
+  <currentMemory unit='KiB'>16384000</currentMemory>
   <vcpu placement='static'>4</vcpu>
   <os>
     <type arch='x86_64' machine='pc-i440fx-bionic'>hvm</type>
@@ -32,7 +32,7 @@ or other application using the libvirt API.
     <vmport state='off'/>
   </features>
   <cpu mode='custom' match='exact' check='partial'>
-    <model fallback='allow'>Broadwell-noTSX-IBRS</model>
+    <model fallback='allow'>Skylake-Client-noTSX-IBRS</model>
   </cpu>
   <clock offset='localtime'>
     <timer name='rtc' tickpolicy='catchup'/>
@@ -49,19 +49,18 @@ or other application using the libvirt API.
   </pm>
   <devices>
     <emulator>/usr/bin/kvm-spice</emulator>
-    <disk type='file' device='cdrom'>
+    <disk type='file' device='disk'>
       <driver name='qemu' type='raw'/>
-      <source file='/home/user/Documents/refind-cd-0.12.0.iso'/>
-      <target dev='hdc' bus='ide'/>
-      <readonly/>
-      <boot order='1'/>
-      <address type='drive' controller='0' bus='1' target='0' unit='0'/>
+      <source file='/dev/sdb'/>
+      <target dev='hdb' bus='ide'/>
+      <address type='drive' controller='0' bus='0' target='0' unit='1'/>
     </disk>
     <disk type='file' device='disk'>
       <driver name='qemu' type='raw'/>
-      <source file='/dev/nvme1n1'/>
-      <target dev='hdd' bus='ide'/>
-      <address type='drive' controller='0' bus='1' target='0' unit='1'/>
+      <source file='/dev/nvme0n1'/>
+      <target dev='sda' bus='sata'/>
+      <boot order='1'/>
+      <address type='drive' controller='0' bus='0' target='0' unit='0'/>
     </disk>
     <controller type='usb' index='0' model='ich9-ehci1'>
       <address type='pci' domain='0x0000' bus='0x00' slot='0x05' function='0x7'/>
