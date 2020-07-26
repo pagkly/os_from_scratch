@@ -1,0 +1,21 @@
+# Disk DescriptorFile
+version=1
+CID=d26a2110
+parentCID=ffffffff
+createType="fullDevice"
+
+# Extent description
+RW 1000215215 FLAT "/dev/sdc" 0
+
+# The disk Data Base 
+#DDB
+
+ddb.virtualHWVersion = "4"
+ddb.adapterType="ide"
+ddb.geometry.cylinders="16383"
+ddb.geometry.heads="16"
+ddb.geometry.sectors="63"
+ddb.uuid.image="e96728fd-0b60-4824-a270-0edb071d9934"
+ddb.uuid.parent="00000000-0000-0000-0000-000000000000"
+ddb.uuid.modification="00000000-0000-0000-0000-000000000000"
+ddb.uuid.parentmodification="00000000-0000-0000-0000-000000000000"
