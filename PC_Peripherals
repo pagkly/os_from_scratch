@@ -1,0 +1,3 @@
+cd ~
+wget https://download.brother.com/welcome/dlf006893/linux-brprinter-installer-2.2.2-1.gz
+gz linux-brprinter-installer-2.2.2-1.gz
