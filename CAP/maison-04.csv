@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+70:4F:57:1F:74:0F, 2020-07-30 03:41:53, 2020-07-30 03:42:45,  4, 270, WPA2, CCMP, PSK, -56,       11,        0,   0.  0.  0.  0,  19, maison noire - 2.4G, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

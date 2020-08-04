@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+34:E8:94:6E:80:12, 2020-07-30 15:53:34, 2020-07-30 15:53:49, 11, 130, WPA2, CCMP, PSK,   0,       10,       15,   0.  0.  0.  0,  12, TP-LINK_8013, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+D8:1E:DD:C2:83:6D, 2020-07-30 15:53:40, 2020-07-30 15:53:45, -76,       19, 34:E8:94:6E:80:12,
+

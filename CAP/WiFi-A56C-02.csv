@@ -1,0 +1,9 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+98:DA:C4:A1:A5:6C, 2020-07-30 15:11:27, 2020-07-30 15:25:01,  9, 130, WPA2, CCMP, PSK,   0,     2115,      226,   0.  0.  0.  0,   9, WiFi-A56C, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+80:9F:9B:0E:89:AC, 2020-07-30 15:12:27, 2020-07-30 15:24:34, -78,       41, 98:DA:C4:A1:A5:6C,
+24:1B:7A:27:AD:15, 2020-07-30 15:11:32, 2020-07-30 15:24:54,  -1,       33, 98:DA:C4:A1:A5:6C,
+F0:4F:7C:4C:1E:2B, 2020-07-30 15:23:49, 2020-07-30 15:23:56,   0,       30, 98:DA:C4:A1:A5:6C,
+
