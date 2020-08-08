@@ -1,0 +1,18 @@
+500000
+200
+200
+
+13472115
+f65490f578d9bb50ee6f35283bb32fb9:c4715435f0a7:44d3adfca4c1:TP-LINK_F0A8:13472115
+f65490f578d9bb50ee6f35283bb32fb9:c4715435f0a7:44d3adfca4c1:TP-LINK_F0A8:13472115
+f65490f578d9bb50ee6f35283bb32fb9:c4715435f0a7:44d3adfca4c1:TP-LINK_F0A8:13472115
+f65490f578d9bb50ee6f35283bb32fb9:c4715435f0a7:44d3adfca4c1:TP-LINK_F0A8:13472115
+5a0e7a59eb677c26e6e5b1916cd36d80:34e8940e0e3a:1c36bb2a5dcc:TP-LINK_0E3B:67831456
+01a37daf947f2572107ccaab96f8f2f1:34e8940e0e3a:1c36bb2a5dcc:TP-LINK_0E3B:67831456
+9f799747590bfee97c0d3b90b1d2832c:98dac423777c:60f677ce00fe:OCCOM_777C:56096903
+
+cd C:\Users\user\Downloads\hashcat-5.1.0
+C:\Users\user\Downloads\hashcat-5.1.0\hashcat64.exe -m 2500 C:\Users\user\Desktop\311@19Poplar-2G-04.hccapx C:\Users\user\Desktop\pl3 -o C:\Users\user\Desktop\cracked.txt -a 3
+C:\Users\user\Downloads\hashcat-5.1.0\hashcat64.exe -m 2500 C:\Users\user\Desktop\405@17Poplar-2G-04.hccapx C:\Users\user\Desktop\pl3 -o C:\Users\user\Desktop\cracked.txt -a 3
+C:\Users\user\Downloads\hashcat-5.1.0\hashcat64.exe -m 2500 C:\Users\user\Desktop\OCCOM_777C-01.hccapx -o C:\Users\user\Desktop\cracked.txt -a 3 -1 ?H 5609?1?1?1?1 
+C:\Users\user\Downloads\hashcat-5.1.0\hashcat64.exe -m 2500 C:\Users\user\Desktop\301@Poplar20-2G-02.hccapx C:\Users\user\Desktop\pl3 -o C:\Users\user\Desktop\cracked.txt -a 3d7a5e9edf9105850d4d9bd255a4824d2:66d15435200f:2034fbf24ae0:301@Poplar20-2G:asd67890
