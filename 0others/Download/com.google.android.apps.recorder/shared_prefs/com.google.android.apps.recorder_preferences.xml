@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="backup_tip_required" value="1" />
+    <int name="onboarding_required" value="2" />
+    <boolean name="location_prompt_shown" value="true" />
+</map>

@@ -1,0 +1,33 @@
+
+
+I'm. Mysterious Raspberry Pi Zero. He wrote that his roommate found a bunch of his hidden behind desks vending machines and trash cans in the college library. Some people were speculating a wife. I don't know. And used to intercept internet traffic. Looks like a pie he was using it as a rope excess point to do a man in the middle attack. 
+
+Definitely. So I reached out to them and offered my help to figure out what it does into my surprise they were interested and we hooked onto a Skype called. So in this video, I want to tell you the process of us analyzing this Raspberry Pi Zero. 
+
+And before I joined this one, they already took the SD card out of the Raspberry Pi and blacked it into a PC. It's caused an F drive to show up. It's called boot and contains some weird files that can be really confusing. Start its encrypted stuff, but they quickly realized that maybe we. 
+
+Would just look at. Actually when you open the windows disk management utility, you can see that the F drive is only one partition on this whole removable disk and there are three point six gigabytes in another partition, but Windows didn't mount this Windows only automatically mounted and make the phone system accessible for the first partition called boot. 
+
+That file system was fat 32. The file allocation table fat is a computer file system. The fat file system is a legacy file system. And robust. Viewer. You definitely have. Food allow windows to mount it but it later said that it can process X4 so that didn't I remember that gift for Windows comes with a nice bash terminal where you get a lot of Linux and friends too. 
+
+It also specifies at what exact sectors inside of that might have placed the system D will use this. Server's described in here that used here. And then later the job application is executed divides, how production programs and even sets an include path for a MQTT library. So yeah. Guess those values because none of these are really random. 
+
+So because any, Physical access can always extract. Those I suggest to just use a pre-shared. Secret device like an API token. It can be compromised but you can also then it revoked access to that particular API token. This little bit of obfuscation here is useless for anybody who actually wants to do harm and figure out the secret. 
+
+It just takes like one minute longer to get it, but adds unnecessary development complexity. You actually can't do this better with a response. 
+
+Hello, welcome to homepod because incredible if you are all in. A. 
+
+Ring is so special. Oriented. Where and they make the software they're in charge of the production for all of it and develop it's they have a better control over top to bottom that gives you the functionality that you just don't get with other manufacturers and here's the big butt if you love and iPhone and you love and iPad but you really want to have a PC laptop there's a big ecosystem can do and a lot of people want to branch out maybe they like having an iPad they don't want an iPhone. 
+
+They like, you know the razor laptop or the surface line of laptops, they don't want to get a MacBook Pro or spend the money. A lot of those awesome features that Apple can offer you an electric traditionally, it's. Too impossible sort of crack a hole system, you know to jailbreak so to speak your way in but occasionally. 
+
+Get away in where you don't have to. Get inside of Apple you need. Raspberry pi most of. So you got a couple things plugged in perhaps. Plug into. Both the US or more whatsapp focused but that's a big. I didn't understand. 
+
+No. I bet you do. Sick. Focuses on. I just don't see a future here. 
+
+No escape. Have Vietnam we are not getting married. 
+
+It's really good. I mean this guy goes out of like he's still 50s. Okay have a cigar you'll be crazy. Okay, you still. Sister. Will never ever do that again. Thomas. Wait, no. I didn't. Get it again. 
+
+Yeah, of course.
