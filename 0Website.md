@@ -2,7 +2,7 @@
 ## Wordpress and GSites
 |  |  |
 |--|--|
-| **AIO Host** | [https://www.000webhosting.com](https://www.000webhosting.com)
+| **AIO Host** | [https://www.000webhosting.com](https://www.000webhosting.com) <br> [https://www.dreamhost.com/](https://www.dreamhost.com/) |
 | **Domain (only)** | [https://domain.google.com] <br> [https://www.rumahweb.com/](https://www.rumahweb.com/) |
 | **Best in Business** | [https://www.steegle.com](https://www.steegle.com)  |
 | **Templates** | [https://zyro.com/new-template/e-commerce](https://zyro.com/new-template/e-commerce) |
