@@ -67,6 +67,7 @@ sudo apt-get install -y git
 sudo rm -rf ~/dockerubuntuvnc
 cd ~
 git clone https://github.com/pagkly/dockerubuntuvnc
+cd ~
 cd ./dockerubuntuvnc
 sudo docker build -t dockerubuntuvnc .
 ```
@@ -76,6 +77,7 @@ sudo docker build -t dockerubuntuvnc .
 cd $env:USERPROFILE
 rmdir /S /Q dockerubuntuvnc
 git clone https://github.com/pagkly/dockerubuntuvnc
+cd ~
 cd dockerubuntuvnc
 docker build -t dockerubuntuvnc .
 ```
