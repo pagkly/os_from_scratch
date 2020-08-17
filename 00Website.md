@@ -10,7 +10,7 @@
 | **License** | [https://choosealicense.com/](https://choosealicense.com/) |
 | **💌 Dummy E-mail** | [https://10minutemail.com/](https://10minutemail.com/) |
 | **Emoji** | [https://emojikeyboard.top/](https://emojikeyboard.top/) |
-| **🔤 Custom fonts** | [bit.ly/GSiteFonts](http://bit.ly/GSiteFonts) <br> (https://www.youtube.com/watch?v=418K5o5GZFE)|
+| **🔤 Custom fonts** | [bit.ly/GSiteFonts](http://bit.ly/GSiteFonts) <br> https://www.youtube.com/watch?v=418K5o5GZFE|
 | **ℹ️ Forms** | [https://www.youtube.com/watch?v=6FNT_njj2jI](https://www.youtube.com/watch?v=6FNT_njj2jI) |
 
 
