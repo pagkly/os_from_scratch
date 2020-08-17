@@ -84,7 +84,7 @@ docker build -t dockerubuntuvnc .
 
 RUN container as root with vnc @ 1024x768:
 ```
-docker run -it --user 0 --restart=always -d -p 5900 --privileged --cap-add SYS_ADMIN --cap-add DAC_READ_SEARCH --security-opt seccomp=unconfined dockerubuntuvnc sudo su -c "x11vnc -forever -create -scale 1024x768"
+docker run -it --user 0 --restart=always -d -p 5910 --privileged --cap-add SYS_ADMIN --cap-add DAC_READ_SEARCH --security-opt seccomp=unconfined dockerubuntuvnc sudo su -c "x11vnc -forever -create -scale 1024x768"
 ```
 
 RUN vnc :
