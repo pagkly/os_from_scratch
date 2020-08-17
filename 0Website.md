@@ -3,7 +3,7 @@
 |  |  |
 |--|--|
 | **AIO Host** | [https://www.000webhost.com](https://www.000webhost.com) <br> [https://www.dreamhost.com/](https://www.dreamhost.com/) |
-| **Domain (only)** | [https://domain.google.com] <br> [https://www.rumahweb.com/](https://www.rumahweb.com/) |
+| **Domain (only)** | 🌐 [https://domain.google.com] <br> 🇮🇩 [https://www.rumahweb.com/](https://www.rumahweb.com/) |
 | **Best in Business** | [https://www.steegle.com](https://www.steegle.com)  |
 | **Templates** | [https://zyro.com/new-template/e-commerce](https://zyro.com/new-template/e-commerce) |
 | **Stocks** | [https://www.pexels.com](https://www.pexels.com) <br> [https://gratisography.com/](https://gratisography.com/) |
