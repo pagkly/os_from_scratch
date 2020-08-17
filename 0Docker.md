@@ -1,3 +1,9 @@
+# Docker commands
+docker ps -a
+###delete everything
+docker images -a -q | % { docker image rm $_ -f }
+docker system prune -a --volumes 
+
 # Docker Archlinux CUDA Gnome
 
 Installed Versions:
