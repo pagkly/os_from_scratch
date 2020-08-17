@@ -92,3 +92,7 @@ RUN vnc :
 choco install -y vncviewer
 vncviewer :5900
 ```
+
+docker pull nvidia/cuda
+docker run -it --user 0 --restart=always -d -p 5910 --privileged --cap-add SYS_ADMIN --cap-add DAC_READ_SEARCH --security-opt seccomp=unconfined nvidia/cuda
+docker exec -it /bin/bash
