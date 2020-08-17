@@ -38,7 +38,7 @@ docker build -t dockerarchcuda .
 ## Run
 RUN container as root with vnc @ 1024x768:
 ```
-docker run -it --user 0 --restart=always -d -p 5900 --privileged --cap-add SYS_ADMIN --cap-add DAC_READ_SEARCH --security-opt seccomp=unconfined dockerarchcuda "sudo su -c """x11vnc -forever -create -scale 1024x768""""
+docker run -it --user 0 --restart=always -d -p 5900 --privileged --cap-add SYS_ADMIN --cap-add DAC_READ_SEARCH --security-opt seccomp=unconfined dockerarchcuda x11vnc -forever -create -scale 1024x768
 ```
 
 ## Run VNC
