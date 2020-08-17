@@ -21,6 +21,7 @@ sudo apt-get install -y git
 sudo rm -rf ~/dockerarchcuda
 cd ~
 git clone https://github.com/pagkly/dockerarchcuda
+cd ~
 cd ./dockerarchcuda
 sudo docker build -t dockerarchcuda .
 ```
@@ -29,6 +30,7 @@ sudo docker build -t dockerarchcuda .
 cd $env:USERPROFILE
 rmdir /S /Q dockerarchcuda
 git clone https://github.com/pagkly/dockerarchcuda
+cd ~
 cd dockerarchcuda
 docker build -t dockerarchcuda .
 ```
