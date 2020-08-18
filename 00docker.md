@@ -94,5 +94,5 @@ vncviewer :5900
 ```
 
 docker pull nvidia/cuda
-docker run -it --user 0 --restart=always --privileged --cap-add SYS_ADMIN --cap-add DAC_READ_SEARCH --security-opt seccomp=unconfined nvidia/cuda
+docker run -it nvidia/cuda
 docker exec -it /bin/bash
